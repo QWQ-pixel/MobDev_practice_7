@@ -1,0 +1,4 @@
+include ':FirebaseAuth'
+include ':HttpUrlConnection'
+include ':SocketConnection'
+rootProject.name = "ru.mirea.kuznetsova.practice7"

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277615055892",
+    "project_id": "ru-mirea-kuznetsova-practice7",
+    "storage_bucket": "ru-mirea-kuznetsova-practice7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277615055892:android:a87a495e7ff199c3630301",
+        "android_client_info": {
+          "package_name": "com.mirea.kuznetsova.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277615055892-5q77a7pl1jj3prug15m118iikau6u9gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnI7WajcAQF6rGA06eru1emFCEpl-ibp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277615055892-5q77a7pl1jj3prug15m118iikau6u9gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
